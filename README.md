@@ -1,2 +1,27 @@
-# twia_slides
-Slides from the "This Week in Architecture" YouTube series by CoffeeBeforeArch
+# This Week in Architecture
+This repository contains all slides from the YouTube series "This Week in Architecture" by CoffeeBeforeArch.
+
+## Contact
+
+Suggestions for specific content can be sent to: CoffeeBeforeArch@gmail.com
+
+# Conference Presented
+
+## Architecture Conferences
+ISCA (International Symposium on Computer Architecture)
+
+MICRO (IEEE/ACM International Symposium on Microarchitecture)
+
+HPCA (International Symposium on High Performance Computer Architecture)
+
+ASPLOS (ACM International Conference on Architectural Support for Programming Languages and Operating Systems)
+
+## Additional Conferences
+SIGMETRICS (Special Interest Group on Measurement and Evaluation)
+
+OSDI (USENIX Symposium on Operating Systems Design and Implementation)
+
+## Papers Presented
+| Paper | Video | Conference | Subjects| Files |
+| ----- | ----- |----------- | ------- | ----- |
+| <a href=http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.parties.pdf>parties.pdf</a> | | ASPLOS 2019 | QoS, Cloud Systems, Dynamic Resource Partitioning | |
