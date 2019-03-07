@@ -24,4 +24,4 @@ OSDI (USENIX Symposium on Operating Systems Design and Implementation)
 ## Papers Presented
 | Paper | Video | Conference | Subjects| Files |
 | ----- | ----- |----------- | ------- | ----- |
-| <a href=http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.parties.pdf>parties.pdf</a> | | ASPLOS 2019 | QoS, Cloud Systems, Dynamic Resource Partitioning | |
+| <a href=http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.parties.pdf>parties.pdf</a> | | ASPLOS 2019 | QoS, Cloud Systems, Dynamic Resource Partitioning | <a href=https://github.com/CoffeeBeforeArch/twia/blob/master/asplos/twia_1_PARTIES_asplos2019.pdf>Slides</a> |
